@@ -2,4 +2,10 @@
 
 A space invaders game I made in 2012
 
-![screenshot](screenshot.png)
+## Animation
+
+![Animation](animation.gif)
+
+## Screenshot
+
+![Screenshot](screenshot.png)
